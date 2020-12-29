@@ -1,3 +1,3 @@
-# Template project for node.js applications
+# URL shortener backend
 
 TODO
