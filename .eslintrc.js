@@ -6,6 +6,7 @@ module.exports = {
   },
   extends: [
     'airbnb-base',
+    'plugin:mocha/recommended',
   ],
   globals: {
     Atomics: 'readonly',
